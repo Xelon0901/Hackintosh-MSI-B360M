@@ -1,4 +1,4 @@
-# Hackintosh
+# MSI/B360MOTOR/Hackintosh
 
 关于我发布的EFI，您需要知道：
 
