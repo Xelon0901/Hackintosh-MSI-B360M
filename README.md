@@ -2,8 +2,7 @@
 
 关于我发布的EFI，您需要知道：
 
- ```json
-   // code for red在您使用此EFI后，记得使用OpenCore Configurator刷写三码！
+## 在您使用此EFI后，记得使用OpenCore Configurator刷写三码！
 
 ## 配置信息：
 
