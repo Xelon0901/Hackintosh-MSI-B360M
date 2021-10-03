@@ -36,6 +36,7 @@
 
 v1.0 2021.10.03
 * OC引导版本为0.7.4
+* 支持macOS10.15 Catalina —— macOS12 Monterey Beta8 的引导启动
 * 解决了“Boot Install macOS xxxx"的启动项不显示问题
 * 机型为iMac Pro
 * 精简不必要的开机启动项，默认添加“Reset NVRAM“以及”SIP 状态一键切换“（需点击空格唤出）
