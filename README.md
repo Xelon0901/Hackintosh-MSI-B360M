@@ -28,8 +28,9 @@
 * Advanced • USB Configuration • XHCI Hand-off = Enabled
 * Security • Secure Boot = Disabled
 
-## 截图预览!
-[Uploading 截屏2021-10-03 下午10.30.44.png…]()
+## 截图预览
+<img width="2048" alt="截屏2021-10-03 下午10 30 44" src="https://user-images.githubusercontent.com/91834755/135758508-ba9a702d-cb60-4a76-a186-fae062530f88.png">
+
 
 ## 更新日志
 
