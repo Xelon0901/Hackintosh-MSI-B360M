@@ -41,3 +41,7 @@ v1.0 2021.10.03
 * 机型为iMac Pro
 * 精简不必要的开机启动项，默认添加“Reset NVRAM“以及”SIP 状态一键切换“（需点击空格唤出）
 * 当您使用OpenCore Configurator工具刷写三码后即可正常使用iMessages以及Facetime
+
+v2.0 2021.10.17
+* OC版本为0.7.4官方发行版
+* 修复无法安装Catalina及以下版本的问题
