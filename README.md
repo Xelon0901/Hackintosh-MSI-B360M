@@ -7,6 +7,8 @@
 ## 配置信息：
 
 我的配置是根据黑苹果较为完善的进行选取搭配
+| Hackintosh | 配置单 |
+|---|---|
 |  CPU | Intel i3 9100F（理论上所有8、9代CPU即coffee lake架构都可使用） |
 |---|---|
 |  GPU | 蓝宝石 Radeon RX580 4G |
@@ -36,12 +38,14 @@
 
 v1.0 2021.10.03
 * OC引导版本为0.7.4
-* 支持macOS10.15 Catalina —— macOS12 Monterey Beta8 的引导启动
 * 解决了“Boot Install macOS xxxx"的启动项不显示问题
 * 机型为iMac Pro
 * 精简不必要的开机启动项，默认添加“Reset NVRAM“以及”SIP 状态一键切换“（需点击空格唤出）
 * 当您使用OpenCore Configurator工具刷写三码后即可正常使用iMessages以及Facetime
 
-v2.0 2021.10.17
+v2.0.x 2021.10.17-10.26
 * OC版本为0.7.4官方发行版
 * 修复无法安装Catalina及以下版本的问题
+* 添加支持macOS Monterey 12.0.1 (21A559)支持
+* 修复无法从系统更新中获取更新的错误
+
