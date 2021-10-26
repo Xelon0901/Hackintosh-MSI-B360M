@@ -1,4 +1,4 @@
-# MSI B360MOTOR Hackintosh EFI
+# MSI B360m Hackintosh EFI
 
 关于我发布的EFI，您需要知道：
 
