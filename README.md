@@ -10,7 +10,6 @@
 | Hackintosh | 配置单 |
 |---|---|
 |  CPU | Intel i3 9100F（理论上所有8、9代CPU即coffee lake架构都可使用） |
-|---|---|
 |  GPU | 蓝宝石 Radeon RX580 4G |
 |  主板 | MSI B360 MOTOR（B360芯片组） |
 |  内存 | CUSO 2666Mhz 8G X2 |
