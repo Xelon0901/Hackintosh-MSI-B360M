@@ -14,7 +14,7 @@
 |  主板 | MSI B360 MOTOR（B360芯片组） |
 |  内存 | CUSO 2666Mhz 8G X2 |
 |  机型 | iMac Pro 2017 |
-| Wifi | Broadcom94360CD|
+| Wifi | Broadcom 94360CD|
 
 ## No Working ❌
 
