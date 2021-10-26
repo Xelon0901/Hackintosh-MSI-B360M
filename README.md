@@ -8,7 +8,6 @@
 
 我的配置是根据黑苹果较为完善的进行选取搭配
 | Hackintosh | 配置单 |
-|---|---|
 |  CPU | Intel i3 9100F（理论上所有8、9代CPU即coffee lake架构都可使用） |
 |---|---|
 |  GPU | 蓝宝石 Radeon RX580 4G |
