@@ -10,13 +10,13 @@
 | Hackintosh | 配置单 |
 |---|---|
 |  CPU | Intel i3 9100F（理论上所有8、9代CPU即coffee lake架构都可使用） |
-|  GPU | 蓝宝石 Radeon RX580 4G |
+|  GPU | SAPPHIRE Radeon RX580 4G |
 |  主板 | MSI B360 MOTOR（B360芯片组） |
 |  内存 | CUSO 2666Mhz 8G X2 |
 |  机型 | iMac Pro 2017 |
-| 无线网卡 | 博通94360CD 双频四天线|
+| Wifi | Broadcom94360CD|
 
-## 非正常工作
+## No Working ❌
 
 * 麦克风（我未外置购买麦克风，无法测试）
 * 随航（我的CPU不带有核显，无法使用）
