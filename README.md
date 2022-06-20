@@ -31,7 +31,8 @@
 * Security • Secure Boot = Disabled
 
 ## 截图预览
-<img width="2048" alt="截屏2021-10-03 下午10 30 44" src="https://user-images.githubusercontent.com/91834755/135758508-ba9a702d-cb60-4a76-a186-fae062530f88.png">
+<img width="2048" alt="截屏2022-06-20 14 05 02" src="https://user-images.githubusercontent.com/91834755/174536899-1b263bb4-19b5-4b79-9cbc-6099d94d5125.png">
+
 
 
 ## 更新日志
@@ -49,3 +50,7 @@ v2.0.x 2021.10.17-10.26
 * 添加支持macOS Monterey 12.0.1 (21A559)支持
 * 修复无法从系统更新中获取更新的错误
 
+v2.0.2 2022.06.19-06.20
+* OC引导更新为0.8.2PrePublic
+* 添加支持macOS Ventura 13.0（22A5266r）支持
+* 修复部分错误
