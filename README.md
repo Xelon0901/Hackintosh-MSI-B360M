@@ -54,3 +54,9 @@ v2.0.2 2022.06.19-06.20
 * OC引导更新为0.8.2PrePublic
 * 添加支持macOS Ventura 13.0（22A5266r）支持
 * 修复部分错误
+
+v3.0 2022.07.07
+* OC引导更新为0.8.3Beta
+* 修复macOS 13 Beta3 更新问题
+* 更新Lilu.kext
+* 恢复"Reset NVRAM"以及“SIP状态切换"
